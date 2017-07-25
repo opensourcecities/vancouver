@@ -12,9 +12,11 @@ We want to build a list where we can see and learn about each other's code, just
 
 ## Projects
 
-These projects have been developed mainly in Vancouver, or by people from there.
+These projects have been developed mainly in Vancouver, or by Vancouverites.
 
-_Add some here_
+* [Apache Cordova] (https://github.com/apache/cordova-cli)(formerly PhoneGap) - A popular mobile application development framework. [Website](https://cordova.apache.org/)
+* [VelocityJS](https://github.com/julianshapiro/velocity) - Accelerated JavaScript UI animation library. [Website](http://velocityjs.org/)
+* [FeatersJS](https://github.com/feathersjs/feathers) - A REST and real-time API layer for modern applications. Built in Calgary, Vancouver and other places. [Website](https://feathersjs.com/)
 
 ## GitHub Organizations
 
