@@ -17,9 +17,6 @@ These projects have been developed mainly in Vancouver, or by Vancouverites.
 - [Apache Cordova] (https://github.com/apache/cordova-cli)(formerly PhoneGap) - A popular mobile application development framework. [Website](https://cordova.apache.org/)
 - [VelocityJS](https://github.com/julianshapiro/velocity) - Accelerated JavaScript UI animation library. [Website](http://velocityjs.org/)
 - [@feathers](https://github.com/feathersjs/feathers) - A REST and realtime API layer for modern applications. [Website](https://feathersjs.com/).
-=======
-
->>>>>>> 0fdb4c0861b34f5585c63781a40dbee88f6020f7
 
 ## GitHub Organizations
 
