@@ -14,11 +14,11 @@ We want to build a list where we can see and learn about each other's code, just
 
 These projects have been developed mainly in Vancouver, or by people from there.
 
-_Add some here_
+- [@feathers](https://github.com/feathersjs/feathers) - A REST and realtime API layer for modern applications. [Website](https://feathersjs.com/).
 
 ## GitHub Organizations
 
-_Add some here_
+- [@feathersjs](https://github.com/feathersjs) - A minimal application stack for modern apps.
 
 ## Users with Open Source projects
 
