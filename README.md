@@ -41,7 +41,7 @@ _Add some here_
 
 This is an open source project; if you want to be a maintainer, you can be! Just open an issue asking if you can come on board. For now, these people manage this project:
 
-[@RichardLitt](https://github.com/RichardLitt)
+[@RichardLitt](https://github.com/RichardLitt) [@kvirani](https://github.com/kvirani)
 
 ## Contribute
 
