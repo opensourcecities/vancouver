@@ -29,8 +29,8 @@ _Add some here_
 
 ## Incubators, Schools, and Communities
 
-- [@Lighthouse-Labs](https://github.com/lighthouse-labs) Canada's Developer Bootcamp. Started in Vancouver. Web and iOS programs. [Website](http://www.lighthouselabs.ca/)
 - [@CodeCoreYVR](https://github.com/codecoreyvr) Training the programmers of tomorrow in an intensive program taught by industry professionals. PCTIA Registered, BBB Accredited. [Website](https://codecore.ca/)
+- [@Lighthouse-Labs](https://github.com/lighthouse-labs) Canada's Developer Bootcamp. Started in Vancouver. Web and iOS programs. [Website](http://www.lighthouselabs.ca/)
 
 
 ## Other lists
