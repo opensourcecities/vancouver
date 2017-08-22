@@ -19,6 +19,7 @@ These projects have been developed mainly in Vancouver, or by Vancouverites.
 - [Feathers](https://github.com/feathersjs/feathers) - A REST and realtime API layer for modern applications. [Website](https://feathersjs.com/)
 - [Rivets.js](https://github.com/mikeric/rivets) - A Lightweight and powerful data binding + templating library for modern appliations. [Website](http://rivetsjs.com/)
 - [VelocityJS](https://github.com/julianshapiro/velocity) - Accelerated JavaScript UI animation library. [Website](http://velocityjs.org/)
+- [YolkJS](https://github.com/garbles/yolk) - A library for building asynchronous user interfaces
 
 ## GitHub Organizations
 
