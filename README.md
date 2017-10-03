@@ -33,6 +33,7 @@ _Add some here_
 
 - [@CodeCoreYVR](https://github.com/codecoreyvr) Training the programmers of tomorrow in an intensive program taught by industry professionals. PCTIA Registered, BBB Accredited. [Website](https://codecore.ca/)
 - [@Lighthouse-Labs](https://github.com/lighthouse-labs) Canada's Developer Bootcamp. Started in Vancouver. Web and iOS programs. [Website](http://www.lighthouselabs.ca/)
+- [@suite gunius](https://suite-genius.com/) Shared Workspaces & Coworking in Vancouver 
 - [@VHS](https://github.com/vhs) Vancouver Hack Space. One of the first hackspaces/makerspaces in North America. Community space, workshops. [Website](http://www.vanhack.ca/)
 
 
