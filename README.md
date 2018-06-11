@@ -14,6 +14,7 @@ We want to build a list where we can see and learn about each other's code, just
 
 These projects have been developed mainly in Vancouver, or by Vancouverites.
 
+- [Authboss](https://github.com/volatiletech/authboss) - Modular authentication system for Go web apps.
 - [Apache Cordova](https://github.com/apache/cordova-cli) (formerly/aka PhoneGap) - Build hybrid mobile apps with HTML, CSS and JS. [Website](https://cordova.apache.org/)
 - [CSS Diner](https://github.com/flukeout/css-diner) - A fun game to learn and practice CSS selectors. [Website](http://flukeout.github.io/)
 - [Feathers](https://github.com/feathersjs/feathers) - A REST and realtime API layer for modern applications. [Website](https://feathersjs.com/)
