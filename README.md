@@ -37,7 +37,14 @@ _Add some here_
 - [@VHS](https://github.com/vhs) Vancouver Hack Space. One of the first hackspaces/makerspaces in North America. Community space, workshops. [Website](http://www.vanhack.ca/)
 
 
-## Other lists
+## Open Source Contributors
+
+React: [Brent Vatne](https://github.com/brentvatne)
+R: [Jennifer (Jenny) Bryan](https://github.com/jennybc)
+go: [Damian Gryski](https://github.com/dgryski)
+Homebrew: [Misty De Meo](https://github.com/mistydemeo)
+Py-spy: [Ben Frederickson](https://github.com/benfred)
+
 
 _Add some here_
 
