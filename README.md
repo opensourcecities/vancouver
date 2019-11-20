@@ -44,13 +44,16 @@ _Add some here_
 - go: [Damian Gryski](https://github.com/dgryski)
 - Homebrew: [Misty De Meo](https://github.com/mistydemeo)
 - Py-spy: [Ben Frederickson](https://github.com/benfred)
+- Android: [Supratim](https://github.com/heysupratim)
 
 
 ## Maintainers
 
 This is an open source project; if you want to be a maintainer, you can be! Just open an issue asking if you can come on board. For now, these people manage this project:
 
-[@RichardLitt](https://github.com/RichardLitt) [@kvirani](https://github.com/kvirani)
+- [@RichardLitt](https://github.com/RichardLitt) 
+- [@kvirani](https://github.com/kvirani)
+- [@copperwiring](https://github.com/copperwiring)
 
 ## Contribute
 
