@@ -39,11 +39,11 @@ _Add some here_
 
 ## Open Source Contributors
 
-React: [Brent Vatne](https://github.com/brentvatne)
-R: [Jennifer (Jenny) Bryan](https://github.com/jennybc)
-go: [Damian Gryski](https://github.com/dgryski)
-Homebrew: [Misty De Meo](https://github.com/mistydemeo)
-Py-spy: [Ben Frederickson](https://github.com/benfred)
+- React: [Brent Vatne](https://github.com/brentvatne)
+- R: [Jennifer (Jenny) Bryan](https://github.com/jennybc)
+- go: [Damian Gryski](https://github.com/dgryski)
+- Homebrew: [Misty De Meo](https://github.com/mistydemeo)
+- Py-spy: [Ben Frederickson](https://github.com/benfred)
 
 
 _Add some here_
