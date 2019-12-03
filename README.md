@@ -45,6 +45,7 @@ _Add some here_
 - Homebrew: [Misty De Meo](https://github.com/mistydemeo)
 - Py-spy: [Ben Frederickson](https://github.com/benfred)
 - Android: [Supratim](https://github.com/heysupratim)
+- Python Core: [Mariatta](https://github.com/Mariatta)
 
 
 ## Maintainers
