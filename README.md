@@ -45,7 +45,7 @@ _Add some here_
 - Homebrew: [Misty De Meo](https://github.com/mistydemeo)
 - Py-spy: [Ben Frederickson](https://github.com/benfred)
 - Android: [Supratim](https://github.com/heysupratim)
-- NodeJS: [Quard](https://github.com/Qard?org=nodejs&year_list=1)
+- NodeJS: [Quard](https://github.com/Qard)
 
 
 ## Maintainers
