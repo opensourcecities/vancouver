@@ -47,6 +47,7 @@ _Add some here_
 - Android: [Supratim](https://github.com/heysupratim)
 - Python Core: [Mariatta](https://github.com/Mariatta)
 - NodeJS: [Quard](https://github.com/Qard)
+- The Helm Project: [bacongobbler](https://github.com/bacongobbler)
 
 ## Maintainers
 
