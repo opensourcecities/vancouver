@@ -21,6 +21,7 @@ These projects have been developed mainly in Vancouver, or by Vancouverites.
 - [Rivets.js](https://github.com/mikeric/rivets) - A Lightweight and powerful data binding + templating library for modern appliations. [Website](http://rivetsjs.com/)
 - [VelocityJS](https://github.com/julianshapiro/velocity) - Accelerated JavaScript UI animation library. [Website](http://velocityjs.org/)
 - [YolkJS](https://github.com/garbles/yolk) - A library for building asynchronous user interfaces
+- [Rematch](https://github.com/rematch/rematch) - A Redux framework [website](https://rematch.github.io/rematch/)
 
 ## GitHub Organizations
 
